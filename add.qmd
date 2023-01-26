@@ -4,3 +4,4 @@
 
 I should probably make it look better with a title
 Edit 3: made it a title
+FILE RESTORED WITH "git reset --hard HEAD~1" (works best if the commit that was just made was deleting the file)
